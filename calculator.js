@@ -1,9 +1,7 @@
 // 덧셈
-function add(a, b) {
-  return a + b;
-}
+add = (a, b) => a + b;
 
 // 뺼셈
-function substract(a, b) {
-  return a - b;
-}
+substract = (a, b) => a - b;
+
+const multiply = (a, b) => a * b;
