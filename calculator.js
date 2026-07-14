@@ -11,3 +11,5 @@ const multiply = (a, b) => a * b;
 const divide_premium = (a, b) => {
   return a / b;
 };
+
+// 아래는 유료용 함수
