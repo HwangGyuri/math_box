@@ -11,3 +11,8 @@ const multiply = (a, b) => a * b;
 const divide_premium = (a, b) => {
   return a / b;
 };
+
+// 제곱
+const square = (a) => {
+  return a * a;
+};
