@@ -3,4 +3,5 @@
 # envs/env.development
 # envs/.env.production
 
-envs
+envs/*
+!envs/.gitkeep
